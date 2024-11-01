@@ -1,0 +1,2464 @@
+[23-Oct-2024 15:29:55 UTC] Automatic updates starting...
+[23-Oct-2024 15:29:55 UTC]   Automatic plugin updates starting...
+[23-Oct-2024 15:29:55 UTC]   Automatic plugin updates complete.
+[23-Oct-2024 15:29:55 UTC]   Automatic theme updates starting...
+[23-Oct-2024 15:29:55 UTC]   Automatic theme updates complete.
+[23-Oct-2024 15:29:55 UTC] Automatic updates complete.
+[23-Oct-2024 16:24:28 UTC] Automatic updates starting...
+[23-Oct-2024 16:24:28 UTC]   Automatic plugin updates starting...
+[23-Oct-2024 16:24:28 UTC]   Automatic plugin updates complete.
+[23-Oct-2024 16:24:28 UTC]   Automatic theme updates starting...
+[23-Oct-2024 16:24:28 UTC]   Automatic theme updates complete.
+[23-Oct-2024 16:24:28 UTC] Automatic updates complete.
+[23-Oct-2024 17:05:02 UTC] PHP Notice:  Функцію wpdb::prepare було викликано <strong>неправильно</strong>. Аргумент запиту методу wpdb::prepare() повинен містити описувач перетворений. Будь ласка, перегляньте <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Виправлення помилок у WordPress</a> для більш детальної інформації. (Це повідомлення додане у версії 3.9.0.) in C:\OSPanel\domains\text-generation\wp-includes\functions.php on line 6085
+[23-Oct-2024 17:05:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on string in C:\OSPanel\domains\text-generation\wp-content\themes\astra\text-generation.php:22
+Stack trace:
+#0 C:\OSPanel\domains\text-generation\wp-content\themes\astra\text-generation.php(53): fetchCategories()
+#1 C:\OSPanel\domains\text-generation\wp-content\themes\astra\functions.php(30): generateText()
+#2 C:\OSPanel\domains\text-generation\wp-includes\class-wp-hook.php(324): generate_text_callback()
+#3 C:\OSPanel\domains\text-generation\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters()
+#4 C:\OSPanel\domains\text-generation\wp-includes\plugin.php(517): WP_Hook->do_action()
+#5 C:\OSPanel\domains\text-generation\wp-admin\admin-ajax.php(192): do_action()
+#6 {main}
+  thrown in C:\OSPanel\domains\text-generation\wp-content\themes\astra\text-generation.php on line 22
+[23-Oct-2024 17:05:11 UTC] PHP Notice:  Функцію wpdb::prepare було викликано <strong>неправильно</strong>. Аргумент запиту методу wpdb::prepare() повинен містити описувач перетворений. Будь ласка, перегляньте <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Виправлення помилок у WordPress</a> для більш детальної інформації. (Це повідомлення додане у версії 3.9.0.) in C:\OSPanel\domains\text-generation\wp-includes\functions.php on line 6085
+[23-Oct-2024 17:05:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on string in C:\OSPanel\domains\text-generation\wp-content\themes\astra\text-generation.php:22
+Stack trace:
+#0 C:\OSPanel\domains\text-generation\wp-content\themes\astra\text-generation.php(53): fetchCategories()
+#1 C:\OSPanel\domains\text-generation\wp-content\themes\astra\functions.php(30): generateText()
+#2 C:\OSPanel\domains\text-generation\wp-includes\class-wp-hook.php(324): generate_text_callback()
+#3 C:\OSPanel\domains\text-generation\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters()
+#4 C:\OSPanel\domains\text-generation\wp-includes\plugin.php(517): WP_Hook->do_action()
+#5 C:\OSPanel\domains\text-generation\wp-admin\admin-ajax.php(192): do_action()
+#6 {main}
+  thrown in C:\OSPanel\domains\text-generation\wp-content\themes\astra\text-generation.php on line 22
+[23-Oct-2024 17:10:56 UTC] PHP Notice:  Функцію wpdb::prepare було викликано <strong>неправильно</strong>. Аргумент запиту методу wpdb::prepare() повинен містити описувач перетворений. Будь ласка, перегляньте <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Виправлення помилок у WordPress</a> для більш детальної інформації. (Це повідомлення додане у версії 3.9.0.) in C:\OSPanel\domains\text-generation\wp-includes\functions.php on line 6085
+[23-Oct-2024 17:10:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on string in C:\OSPanel\domains\text-generation\wp-content\themes\astra\text-generation.php:22
+Stack trace:
+#0 C:\OSPanel\domains\text-generation\wp-content\themes\astra\text-generation.php(53): fetchCategories()
+#1 C:\OSPanel\domains\text-generation\wp-content\themes\astra\functions.php(30): generateText()
+#2 C:\OSPanel\domains\text-generation\wp-includes\class-wp-hook.php(324): generate_text_callback()
+#3 C:\OSPanel\domains\text-generation\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters()
+#4 C:\OSPanel\domains\text-generation\wp-includes\plugin.php(517): WP_Hook->do_action()
+#5 C:\OSPanel\domains\text-generation\wp-admin\admin-ajax.php(192): do_action()
+#6 {main}
+  thrown in C:\OSPanel\domains\text-generation\wp-content\themes\astra\text-generation.php on line 22
+[23-Oct-2024 17:14:45 UTC] PHP Notice:  Функцію wpdb::prepare було викликано <strong>неправильно</strong>. Аргумент запиту методу wpdb::prepare() повинен містити описувач перетворений. Будь ласка, перегляньте <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Виправлення помилок у WordPress</a> для більш детальної інформації. (Це повідомлення додане у версії 3.9.0.) in C:\OSPanel\domains\text-generation\wp-includes\functions.php on line 6085
+[23-Oct-2024 17:14:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on string in C:\OSPanel\domains\text-generation\wp-content\themes\astra\text-generation.php:22
+Stack trace:
+#0 C:\OSPanel\domains\text-generation\wp-content\themes\astra\text-generation.php(53): fetchCategories()
+#1 C:\OSPanel\domains\text-generation\wp-content\themes\astra\functions.php(30): generateText()
+#2 C:\OSPanel\domains\text-generation\wp-includes\class-wp-hook.php(324): generate_text_callback()
+#3 C:\OSPanel\domains\text-generation\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters()
+#4 C:\OSPanel\domains\text-generation\wp-includes\plugin.php(517): WP_Hook->do_action()
+#5 C:\OSPanel\domains\text-generation\wp-admin\admin-ajax.php(192): do_action()
+#6 {main}
+  thrown in C:\OSPanel\domains\text-generation\wp-content\themes\astra\text-generation.php on line 22
+[23-Oct-2024 17:16:07 UTC] PHP Notice:  Функцію wpdb::prepare було викликано <strong>неправильно</strong>. Аргумент запиту методу wpdb::prepare() повинен містити описувач перетворений. Будь ласка, перегляньте <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Виправлення помилок у WordPress</a> для більш детальної інформації. (Це повідомлення додане у версії 3.9.0.) in C:\OSPanel\domains\text-generation\wp-includes\functions.php on line 6085
+[23-Oct-2024 17:16:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on string in C:\OSPanel\domains\text-generation\wp-content\themes\astra\text-generation.php:22
+Stack trace:
+#0 C:\OSPanel\domains\text-generation\wp-content\themes\astra\text-generation.php(53): fetchCategories()
+#1 C:\OSPanel\domains\text-generation\wp-content\themes\astra\functions.php(30): generateText()
+#2 C:\OSPanel\domains\text-generation\wp-includes\class-wp-hook.php(324): generate_text_callback()
+#3 C:\OSPanel\domains\text-generation\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters()
+#4 C:\OSPanel\domains\text-generation\wp-includes\plugin.php(517): WP_Hook->do_action()
+#5 C:\OSPanel\domains\text-generation\wp-admin\admin-ajax.php(192): do_action()
+#6 {main}
+  thrown in C:\OSPanel\domains\text-generation\wp-content\themes\astra\text-generation.php on line 22
+[23-Oct-2024 17:16:19 UTC] PHP Notice:  Функцію wpdb::prepare було викликано <strong>неправильно</strong>. Аргумент запиту методу wpdb::prepare() повинен містити описувач перетворений. Будь ласка, перегляньте <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Виправлення помилок у WordPress</a> для більш детальної інформації. (Це повідомлення додане у версії 3.9.0.) in C:\OSPanel\domains\text-generation\wp-includes\functions.php on line 6085
+[23-Oct-2024 17:16:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on string in C:\OSPanel\domains\text-generation\wp-content\themes\astra\text-generation.php:22
+Stack trace:
+#0 C:\OSPanel\domains\text-generation\wp-content\themes\astra\text-generation.php(53): fetchCategories()
+#1 C:\OSPanel\domains\text-generation\wp-content\themes\astra\functions.php(30): generateText()
+#2 C:\OSPanel\domains\text-generation\wp-includes\class-wp-hook.php(324): generate_text_callback()
+#3 C:\OSPanel\domains\text-generation\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters()
+#4 C:\OSPanel\domains\text-generation\wp-includes\plugin.php(517): WP_Hook->do_action()
+#5 C:\OSPanel\domains\text-generation\wp-admin\admin-ajax.php(192): do_action()
+#6 {main}
+  thrown in C:\OSPanel\domains\text-generation\wp-content\themes\astra\text-generation.php on line 22
+[23-Oct-2024 17:16:57 UTC] PHP Notice:  Функцію wpdb::prepare було викликано <strong>неправильно</strong>. Аргумент запиту методу wpdb::prepare() повинен містити описувач перетворений. Будь ласка, перегляньте <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Виправлення помилок у WordPress</a> для більш детальної інформації. (Це повідомлення додане у версії 3.9.0.) in C:\OSPanel\domains\text-generation\wp-includes\functions.php on line 6085
+[23-Oct-2024 17:16:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on string in C:\OSPanel\domains\text-generation\wp-content\themes\astra\text-generation.php:22
+Stack trace:
+#0 C:\OSPanel\domains\text-generation\wp-content\themes\astra\text-generation.php(53): fetchCategories()
+#1 C:\OSPanel\domains\text-generation\wp-content\themes\astra\functions.php(30): generateText()
+#2 C:\OSPanel\domains\text-generation\wp-includes\class-wp-hook.php(324): generate_text_callback()
+#3 C:\OSPanel\domains\text-generation\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters()
+#4 C:\OSPanel\domains\text-generation\wp-includes\plugin.php(517): WP_Hook->do_action()
+#5 C:\OSPanel\domains\text-generation\wp-admin\admin-ajax.php(192): do_action()
+#6 {main}
+  thrown in C:\OSPanel\domains\text-generation\wp-content\themes\astra\text-generation.php on line 22
+[23-Oct-2024 17:17:07 UTC] PHP Notice:  Функцію wpdb::prepare було викликано <strong>неправильно</strong>. Аргумент запиту методу wpdb::prepare() повинен містити описувач перетворений. Будь ласка, перегляньте <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Виправлення помилок у WordPress</a> для більш детальної інформації. (Це повідомлення додане у версії 3.9.0.) in C:\OSPanel\domains\text-generation\wp-includes\functions.php on line 6085
+[23-Oct-2024 17:17:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on string in C:\OSPanel\domains\text-generation\wp-content\themes\astra\text-generation.php:22
+Stack trace:
+#0 C:\OSPanel\domains\text-generation\wp-content\themes\astra\text-generation.php(53): fetchCategories()
+#1 C:\OSPanel\domains\text-generation\wp-content\themes\astra\functions.php(30): generateText()
+#2 C:\OSPanel\domains\text-generation\wp-includes\class-wp-hook.php(324): generate_text_callback()
+#3 C:\OSPanel\domains\text-generation\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters()
+#4 C:\OSPanel\domains\text-generation\wp-includes\plugin.php(517): WP_Hook->do_action()
+#5 C:\OSPanel\domains\text-generation\wp-admin\admin-ajax.php(192): do_action()
+#6 {main}
+  thrown in C:\OSPanel\domains\text-generation\wp-content\themes\astra\text-generation.php on line 22
+[23-Oct-2024 17:21:01 UTC] PHP Notice:  Функцію wpdb::prepare було викликано <strong>неправильно</strong>. Аргумент запиту методу wpdb::prepare() повинен містити описувач перетворений. Будь ласка, перегляньте <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Виправлення помилок у WordPress</a> для більш детальної інформації. (Це повідомлення додане у версії 3.9.0.) in C:\OSPanel\domains\text-generation\wp-includes\functions.php on line 6085
+[23-Oct-2024 17:21:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on string in C:\OSPanel\domains\text-generation\wp-content\themes\astra\text-generation.php:22
+Stack trace:
+#0 C:\OSPanel\domains\text-generation\wp-content\themes\astra\text-generation.php(53): fetchCategories()
+#1 C:\OSPanel\domains\text-generation\wp-content\themes\astra\functions.php(30): generateText()
+#2 C:\OSPanel\domains\text-generation\wp-includes\class-wp-hook.php(324): generate_text_callback()
+#3 C:\OSPanel\domains\text-generation\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters()
+#4 C:\OSPanel\domains\text-generation\wp-includes\plugin.php(517): WP_Hook->do_action()
+#5 C:\OSPanel\domains\text-generation\wp-admin\admin-ajax.php(192): do_action()
+#6 {main}
+  thrown in C:\OSPanel\domains\text-generation\wp-content\themes\astra\text-generation.php on line 22
+[23-Oct-2024 17:23:21 UTC] PHP Notice:  Функцію wpdb::prepare було викликано <strong>неправильно</strong>. Аргумент запиту методу wpdb::prepare() повинен містити описувач перетворений. Будь ласка, перегляньте <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Виправлення помилок у WordPress</a> для більш детальної інформації. (Це повідомлення додане у версії 3.9.0.) in C:\OSPanel\domains\text-generation\wp-includes\functions.php on line 6085
+[23-Oct-2024 17:23:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on string in C:\OSPanel\domains\text-generation\wp-content\themes\astra\text-generation.php:22
+Stack trace:
+#0 C:\OSPanel\domains\text-generation\wp-content\themes\astra\text-generation.php(53): fetchCategories()
+#1 C:\OSPanel\domains\text-generation\wp-content\themes\astra\functions.php(30): generateText()
+#2 C:\OSPanel\domains\text-generation\wp-includes\class-wp-hook.php(324): generate_text_callback()
+#3 C:\OSPanel\domains\text-generation\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters()
+#4 C:\OSPanel\domains\text-generation\wp-includes\plugin.php(517): WP_Hook->do_action()
+#5 C:\OSPanel\domains\text-generation\wp-admin\admin-ajax.php(192): do_action()
+#6 {main}
+  thrown in C:\OSPanel\domains\text-generation\wp-content\themes\astra\text-generation.php on line 22
+[23-Oct-2024 17:24:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'text_generation.categories' doesn't exist in C:\OSPanel\domains\text-generation\wp-content\themes\astra\text-generation.php:22
+Stack trace:
+#0 C:\OSPanel\domains\text-generation\wp-content\themes\astra\text-generation.php(22): PDOStatement->execute()
+#1 C:\OSPanel\domains\text-generation\wp-content\themes\astra\text-generation.php(53): fetchCategories()
+#2 C:\OSPanel\domains\text-generation\wp-content\themes\astra\functions.php(45): generateText()
+#3 C:\OSPanel\domains\text-generation\wp-includes\class-wp-hook.php(324): generate_text_callback()
+#4 C:\OSPanel\domains\text-generation\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters()
+#5 C:\OSPanel\domains\text-generation\wp-includes\plugin.php(517): WP_Hook->do_action()
+#6 C:\OSPanel\domains\text-generation\wp-admin\admin-ajax.php(192): do_action()
+#7 {main}
+  thrown in C:\OSPanel\domains\text-generation\wp-content\themes\astra\text-generation.php on line 22
+[23-Oct-2024 17:25:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'text_generation.categories' doesn't exist in C:\OSPanel\domains\text-generation\wp-content\themes\astra\text-generation.php:22
+Stack trace:
+#0 C:\OSPanel\domains\text-generation\wp-content\themes\astra\text-generation.php(22): PDOStatement->execute()
+#1 C:\OSPanel\domains\text-generation\wp-content\themes\astra\text-generation.php(53): fetchCategories()
+#2 C:\OSPanel\domains\text-generation\wp-content\themes\astra\functions.php(45): generateText()
+#3 C:\OSPanel\domains\text-generation\wp-includes\class-wp-hook.php(324): generate_text_callback()
+#4 C:\OSPanel\domains\text-generation\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters()
+#5 C:\OSPanel\domains\text-generation\wp-includes\plugin.php(517): WP_Hook->do_action()
+#6 C:\OSPanel\domains\text-generation\wp-admin\admin-ajax.php(192): do_action()
+#7 {main}
+  thrown in C:\OSPanel\domains\text-generation\wp-content\themes\astra\text-generation.php on line 22
+[23-Oct-2024 17:54:44 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\OSPanel\domains\text-generation\wp-content\themes\astra\functions.php on line 189
+[23-Oct-2024 17:54:44 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\OSPanel\domains\text-generation\wp-includes\class-wp-recovery-mode-email-service.php on line 367
+[23-Oct-2024 17:54:44 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\OSPanel\domains\text-generation\wp-includes\class-wp-recovery-mode-email-service.php on line 368
+[23-Oct-2024 17:54:45 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\OSPanel\domains\text-generation\wp-content\themes\astra\functions.php on line 189
+[23-Oct-2024 17:54:59 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\OSPanel\domains\text-generation\wp-content\themes\astra\functions.php on line 189
+[23-Oct-2024 17:55:21 UTC] Text generation scripts loading
+[23-Oct-2024 17:55:21 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 17:55:23 UTC] Text generation scripts loading
+[23-Oct-2024 17:55:23 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 17:55:26 UTC] Ajax request received
+[23-Oct-2024 17:55:26 UTC] POST data: Array
+(
+    [action] => generate_text
+    [term] => dsds
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 17:55:26 UTC] Search term: dsds
+[23-Oct-2024 17:55:35 UTC] Text generation scripts loading
+[23-Oct-2024 17:55:35 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 17:55:46 UTC] Ajax request received
+[23-Oct-2024 17:55:46 UTC] POST data: Array
+(
+    [action] => generate_text
+    [term] => Сервер
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 17:55:46 UTC] Search term: Сервер
+[23-Oct-2024 17:57:48 UTC] Text generation scripts loading
+[23-Oct-2024 17:57:48 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 17:57:54 UTC] Ajax request received
+[23-Oct-2024 17:57:54 UTC] POST data: Array
+(
+    [action] => generate_text
+    [term] => Сервер
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 17:57:54 UTC] Search term: Сервер
+[23-Oct-2024 17:58:01 UTC] Text generation scripts loading
+[23-Oct-2024 17:58:01 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 17:58:06 UTC] Ajax request received
+[23-Oct-2024 17:58:06 UTC] POST data: Array
+(
+    [action] => generate_text
+    [term] => Сервер
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 17:58:06 UTC] Search term: Сервер
+[23-Oct-2024 18:07:43 UTC] Text generation scripts loading
+[23-Oct-2024 18:07:43 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 18:07:53 UTC] Ajax request received
+[23-Oct-2024 18:07:53 UTC] POST data: Array
+(
+    [action] => generate_text
+    [term] => Сервре
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 18:07:53 UTC] Search term: Сервре
+[23-Oct-2024 18:21:14 UTC] Text generation scripts loading
+[23-Oct-2024 18:21:14 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 18:34:48 UTC] Ajax request received
+[23-Oct-2024 18:34:48 UTC] POST data: Array
+(
+    [action] => generate_text
+    [term] => Сервер
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 18:34:48 UTC] Search term: Сервер
+[23-Oct-2024 18:40:28 UTC] Text generation scripts loading
+[23-Oct-2024 18:40:28 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 18:40:33 UTC] Ajax request received
+[23-Oct-2024 18:40:33 UTC] POST data: Array
+(
+    [action] => generate_text
+    [term] => Сервер
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 18:40:33 UTC] Search term: Сервер
+[23-Oct-2024 18:42:15 UTC] Text generation scripts loading
+[23-Oct-2024 18:42:15 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 18:42:17 UTC] Ajax request received
+[23-Oct-2024 18:42:17 UTC] POST data: Array
+(
+    [action] => generate_text
+    [term] => іі
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 18:42:17 UTC] Search term: іі
+[23-Oct-2024 18:42:21 UTC] Ajax request received
+[23-Oct-2024 18:42:21 UTC] POST data: Array
+(
+    [action] => generate_text
+    [term] => Сервер
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 18:42:21 UTC] Search term: Сервер
+[23-Oct-2024 18:43:34 UTC] Text generation scripts loading
+[23-Oct-2024 18:43:34 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 18:43:36 UTC] Ajax request received
+[23-Oct-2024 18:43:36 UTC] POST data: Array
+(
+    [action] => generate_text
+    [term] => d
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 18:43:36 UTC] Search term: d
+[23-Oct-2024 18:43:41 UTC] Ajax request received
+[23-Oct-2024 18:43:41 UTC] POST data: Array
+(
+    [action] => generate_text
+    [term] => Сервер
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 18:43:41 UTC] Search term: Сервер
+[23-Oct-2024 18:50:28 UTC] Text generation scripts loading
+[23-Oct-2024 18:50:28 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 18:50:30 UTC] Text generation scripts loading
+[23-Oct-2024 18:50:30 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 18:50:32 UTC] Text generation scripts loading
+[23-Oct-2024 18:50:32 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 18:50:37 UTC] Ajax request received
+[23-Oct-2024 18:50:37 UTC] POST data: Array
+(
+    [action] => generate_text
+    [term] => і
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 18:50:37 UTC] Search term: і
+[23-Oct-2024 18:50:56 UTC] Text generation scripts loading
+[23-Oct-2024 18:50:56 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 18:51:14 UTC] Text generation scripts loading
+[23-Oct-2024 18:51:14 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 18:51:16 UTC] Ajax request received
+[23-Oct-2024 18:51:16 UTC] POST data: Array
+(
+    [action] => generate_text
+    [term] => І
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 18:51:16 UTC] Search term: І
+[23-Oct-2024 18:51:22 UTC] Text generation scripts loading
+[23-Oct-2024 18:51:22 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 18:51:39 UTC] Text generation scripts loading
+[23-Oct-2024 18:51:39 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 18:51:47 UTC] Text generation scripts loading
+[23-Oct-2024 18:51:47 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 18:51:50 UTC] Ajax request received
+[23-Oct-2024 18:51:50 UTC] POST data: Array
+(
+    [action] => generate_text
+    [term] => ііфіффффффффффффффффффффффффф
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 18:51:50 UTC] Search term: ііфіффффффффффффффффффффффффф
+[23-Oct-2024 18:51:53 UTC] Ajax request received
+[23-Oct-2024 18:51:53 UTC] POST data: Array
+(
+    [action] => generate_text
+    [term] => ііфіфффффффффффффффффффффффффі1
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 18:51:53 UTC] Search term: ііфіфффффффффффффффффффффффффі1
+[23-Oct-2024 18:51:57 UTC] Text generation scripts loading
+[23-Oct-2024 18:51:57 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 19:03:01 UTC] Text generation scripts loading
+[23-Oct-2024 19:03:01 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 19:03:06 UTC] Ajax request received
+[23-Oct-2024 19:03:06 UTC] POST data: Array
+(
+    [action] => generate_text
+    [term] => Сервер
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 19:03:06 UTC] Search term: Сервер
+[23-Oct-2024 19:08:27 UTC] Text generation scripts loading
+[23-Oct-2024 19:08:27 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 19:08:29 UTC] Ajax request received
+[23-Oct-2024 19:08:29 UTC] POST data: Array
+(
+    [action] => generate_text
+    [term] => і
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 19:08:29 UTC] Search term: і
+[23-Oct-2024 19:11:56 UTC] Text generation scripts loading
+[23-Oct-2024 19:11:56 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 19:12:02 UTC] Ajax request received
+[23-Oct-2024 19:12:02 UTC] POST data: Array
+(
+    [action] => generate_text
+    [term] => Сервер
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 19:12:02 UTC] Search term: Сервер
+[23-Oct-2024 19:14:16 UTC] Text generation scripts loading
+[23-Oct-2024 19:14:16 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 19:14:19 UTC] Ajax request received
+[23-Oct-2024 19:14:19 UTC] POST data: Array
+(
+    [action] => generate_text
+    [term] => ы
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 19:14:19 UTC] Search term: ы
+[23-Oct-2024 19:18:13 UTC] WordPress database error Server shutdown in progress for query SELECT option_value FROM wp_options WHERE option_name = 'uninstall_plugins' LIMIT 1 made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), include_once('/plugins/elementor/elementor.php'), require('/plugins/elementor/includes/plugin.php'), Elementor\Plugin::instance, Elementor\Plugin->__construct, Elementor\Maintenance::init, register_uninstall_hook, get_option
+[23-Oct-2024 19:18:18 UTC] Text generation scripts loading
+[23-Oct-2024 19:18:18 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 19:18:24 UTC] Text generation scripts loading
+[23-Oct-2024 19:18:24 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 986261584a
+)
+
+[23-Oct-2024 19:18:25 UTC] Text generation scripts loading
+[23-Oct-2024 19:18:25 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 986261584a
+)
+
+[23-Oct-2024 19:18:32 UTC] Ajax request received
+[23-Oct-2024 19:18:32 UTC] POST data: Array
+(
+    [action] => generate_text
+    [term] => Сервер
+    [nonce] => 986261584a
+)
+
+[23-Oct-2024 19:18:32 UTC] Search term: Сервер
+[23-Oct-2024 19:19:04 UTC] Text generation scripts loading
+[23-Oct-2024 19:19:04 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 19:21:02 UTC] Text generation scripts loading
+[23-Oct-2024 19:21:02 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 19:21:04 UTC] Ajax request received
+[23-Oct-2024 19:21:04 UTC] POST data: Array
+(
+    [action] => generate_text
+    [term] => d
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 19:21:04 UTC] Search term: d
+[23-Oct-2024 19:21:06 UTC] Ajax request received
+[23-Oct-2024 19:21:06 UTC] POST data: Array
+(
+    [action] => generate_text
+    [term] => d
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 19:21:06 UTC] Search term: d
+[23-Oct-2024 19:21:07 UTC] Ajax request received
+[23-Oct-2024 19:21:07 UTC] POST data: Array
+(
+    [action] => generate_text
+    [term] => d
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 19:21:07 UTC] Search term: d
+[23-Oct-2024 19:21:07 UTC] Ajax request received
+[23-Oct-2024 19:21:07 UTC] POST data: Array
+(
+    [action] => generate_text
+    [term] => d
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 19:21:07 UTC] Search term: d
+[23-Oct-2024 19:21:08 UTC] Ajax request received
+[23-Oct-2024 19:21:08 UTC] POST data: Array
+(
+    [action] => generate_text
+    [term] => d
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 19:21:08 UTC] Search term: d
+[23-Oct-2024 19:21:08 UTC] Ajax request received
+[23-Oct-2024 19:21:08 UTC] POST data: Array
+(
+    [action] => generate_text
+    [term] => d
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 19:21:08 UTC] Search term: d
+[23-Oct-2024 19:21:08 UTC] Ajax request received
+[23-Oct-2024 19:21:08 UTC] POST data: Array
+(
+    [action] => generate_text
+    [term] => d
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 19:21:08 UTC] Search term: d
+[23-Oct-2024 19:21:08 UTC] Ajax request received
+[23-Oct-2024 19:21:08 UTC] POST data: Array
+(
+    [action] => generate_text
+    [term] => d
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 19:21:08 UTC] Search term: d
+[23-Oct-2024 19:21:09 UTC] Ajax request received
+[23-Oct-2024 19:21:09 UTC] POST data: Array
+(
+    [action] => generate_text
+    [term] => d
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 19:21:09 UTC] Search term: d
+[23-Oct-2024 19:21:09 UTC] Ajax request received
+[23-Oct-2024 19:21:09 UTC] POST data: Array
+(
+    [action] => generate_text
+    [term] => d
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 19:21:09 UTC] Search term: d
+[23-Oct-2024 19:21:09 UTC] Ajax request received
+[23-Oct-2024 19:21:09 UTC] POST data: Array
+(
+    [action] => generate_text
+    [term] => d
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 19:21:09 UTC] Search term: d
+[23-Oct-2024 19:21:09 UTC] Ajax request received
+[23-Oct-2024 19:21:09 UTC] POST data: Array
+(
+    [action] => generate_text
+    [term] => d
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 19:21:09 UTC] Search term: d
+[23-Oct-2024 19:21:09 UTC] Ajax request received
+[23-Oct-2024 19:21:09 UTC] POST data: Array
+(
+    [action] => generate_text
+    [term] => d
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 19:21:09 UTC] Search term: d
+[23-Oct-2024 19:21:09 UTC] Ajax request received
+[23-Oct-2024 19:21:09 UTC] POST data: Array
+(
+    [action] => generate_text
+    [term] => d
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 19:21:09 UTC] Search term: d
+[23-Oct-2024 19:21:10 UTC] Ajax request received
+[23-Oct-2024 19:21:10 UTC] POST data: Array
+(
+    [action] => generate_text
+    [term] => d
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 19:21:10 UTC] Search term: d
+[23-Oct-2024 19:21:11 UTC] Ajax request received
+[23-Oct-2024 19:21:11 UTC] POST data: Array
+(
+    [action] => generate_text
+    [term] => d
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 19:21:11 UTC] Search term: d
+[23-Oct-2024 19:21:12 UTC] Text generation scripts loading
+[23-Oct-2024 19:21:12 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 19:23:00 UTC] Text generation scripts loading
+[23-Oct-2024 19:23:00 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 19:23:02 UTC] Text generation scripts loading
+[23-Oct-2024 19:23:02 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 19:23:04 UTC] Text generation scripts loading
+[23-Oct-2024 19:23:04 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 19:23:07 UTC] Text generation scripts loading
+[23-Oct-2024 19:23:07 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 19:23:09 UTC] Text generation scripts loading
+[23-Oct-2024 19:23:09 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 19:23:13 UTC] Text generation scripts loading
+[23-Oct-2024 19:23:13 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 19:26:27 UTC] Text generation scripts loading
+[23-Oct-2024 19:26:27 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 19:26:32 UTC] Термін: Сервер
+[23-Oct-2024 19:26:32 UTC] Результат запиту: stdClass Object
+(
+    [definition] => Комп'ютерна система або пристрій, що надає певні послуги іншим комп'ютерам або клієнтам у мережі. Сервери можуть обробляти запити клієнтів і виконувати функції, як-от зберігання даних, хостинг вебсайтів або керування базами даних
+    [category] => Інфраструктура та мережі
+    [subcategory] => 
+)
+
+[23-Oct-2024 19:27:00 UTC] Термін: Бекенд
+[23-Oct-2024 19:27:00 UTC] Результат запиту: stdClass Object
+(
+    [definition] => Частина програмного забезпечення або вебдодатку, що працює на сервері і відповідає за збереження, обробку даних і бізнес-логіку
+    [category] => Програмування та розробка
+    [subcategory] => Веброзробка
+)
+
+[23-Oct-2024 19:27:11 UTC] Термін: Фронтенд
+[23-Oct-2024 19:27:11 UTC] Результат запиту: stdClass Object
+(
+    [definition] => Частина програмного забезпечення або вебдодатку, з якою взаємодіє користувач, включає в себе інтерфейс користувача (UI) та елементи дизайну
+    [category] => Програмування та розробка
+    [subcategory] => Веброзробка
+)
+
+[23-Oct-2024 19:27:14 UTC] Термін: Фронтенд1
+[23-Oct-2024 19:27:14 UTC] Результат запиту: 
+[23-Oct-2024 19:27:20 UTC] Термін: Фронтенд
+[23-Oct-2024 19:27:20 UTC] Результат запиту: stdClass Object
+(
+    [definition] => Частина програмного забезпечення або вебдодатку, з якою взаємодіє користувач, включає в себе інтерфейс користувача (UI) та елементи дизайну
+    [category] => Програмування та розробка
+    [subcategory] => Веброзробка
+)
+
+[23-Oct-2024 19:27:37 UTC] Термін: 1
+[23-Oct-2024 19:27:37 UTC] Результат запиту: 
+[23-Oct-2024 19:28:34 UTC] Термін: Сервер
+[23-Oct-2024 19:28:34 UTC] Результат запиту: stdClass Object
+(
+    [definition] => Комп'ютерна система або пристрій, що надає певні послуги іншим комп'ютерам або клієнтам у мережі. Сервери можуть обробляти запити клієнтів і виконувати функції, як-от зберігання даних, хостинг вебсайтів або керування базами даних
+    [category] => Інфраструктура та мережі
+    [subcategory] => 
+)
+
+[23-Oct-2024 19:34:54 UTC] Термін: 1
+[23-Oct-2024 19:34:54 UTC] Результат запиту: 
+[23-Oct-2024 19:35:38 UTC] Text generation scripts loading
+[23-Oct-2024 19:35:38 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 19:35:43 UTC] Термін: север
+[23-Oct-2024 19:35:43 UTC] Результат запиту: 
+[23-Oct-2024 19:35:48 UTC] Термін: Серв
+[23-Oct-2024 19:35:48 UTC] Результат запиту: stdClass Object
+(
+    [definition] => Комп'ютерна система або пристрій, що надає певні послуги іншим комп'ютерам або клієнтам у мережі. Сервери можуть обробляти запити клієнтів і виконувати функції, як-от зберігання даних, хостинг вебсайтів або керування базами даних
+    [category] => Інфраструктура та мережі
+    [subcategory] => 
+)
+
+[23-Oct-2024 19:38:41 UTC] Text generation scripts loading
+[23-Oct-2024 19:38:41 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 19:38:47 UTC] Термін: Сервер
+[23-Oct-2024 19:38:47 UTC] Результат запиту: stdClass Object
+(
+    [definition] => Комп'ютерна система або пристрій, що надає певні послуги іншим комп'ютерам або клієнтам у мережі. Сервери можуть обробляти запити клієнтів і виконувати функції, як-от зберігання даних, хостинг вебсайтів або керування базами даних
+    [category] => Інфраструктура та мережі
+    [subcategory] => 
+)
+
+[23-Oct-2024 19:38:57 UTC] Термін: Сервер1
+[23-Oct-2024 19:38:57 UTC] Результат запиту: 
+[23-Oct-2024 19:39:52 UTC] Термін: Бекенд
+[23-Oct-2024 19:39:52 UTC] Результат запиту: stdClass Object
+(
+    [definition] => Частина програмного забезпечення або вебдодатку, що працює на сервері і відповідає за збереження, обробку даних і бізнес-логіку
+    [category] => Програмування та розробка
+    [subcategory] => Веброзробка
+)
+
+[23-Oct-2024 19:41:47 UTC] Text generation scripts loading
+[23-Oct-2024 19:41:47 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 19:41:49 UTC] Термін: Бекенд
+[23-Oct-2024 19:41:49 UTC] Результат запиту: stdClass Object
+(
+    [definition] => Частина програмного забезпечення або вебдодатку, що працює на сервері і відповідає за збереження, обробку даних і бізнес-логіку
+    [category] => Програмування та розробка
+    [subcategory] => Веброзробка
+)
+
+[23-Oct-2024 19:43:48 UTC] Text generation scripts loading
+[23-Oct-2024 19:43:48 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 19:44:56 UTC] Text generation scripts loading
+[23-Oct-2024 19:44:56 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 19:46:17 UTC] Text generation scripts loading
+[23-Oct-2024 19:46:17 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 19:46:21 UTC] Термін: Сервер
+[23-Oct-2024 19:46:21 UTC] Результат запиту: stdClass Object
+(
+    [definition] => Комп'ютерна система або пристрій, що надає певні послуги іншим комп'ютерам або клієнтам у мережі. Сервери можуть обробляти запити клієнтів і виконувати функції, як-от зберігання даних, хостинг вебсайтів або керування базами даних
+    [category] => Інфраструктура та мережі
+    [subcategory] => 
+)
+
+[23-Oct-2024 19:50:18 UTC] Text generation scripts loading
+[23-Oct-2024 19:50:18 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 19:50:24 UTC] Термін: Що таке сервер?
+[23-Oct-2024 19:50:24 UTC] Результат запиту: stdClass Object
+(
+    [definition] => Програмне забезпечення, яке обробляє запити від клієнтів (браузерів) і повертає відповідні вебсторінки через HTTP протокол
+    [category] => Інфраструктура та мережі
+    [subcategory] => 
+)
+
+[23-Oct-2024 19:50:39 UTC] Термін: сервер?
+[23-Oct-2024 19:50:39 UTC] Результат запиту: stdClass Object
+(
+    [definition] => Комп'ютерна система або пристрій, що надає певні послуги іншим комп'ютерам або клієнтам у мережі. Сервери можуть обробляти запити клієнтів і виконувати функції, як-от зберігання даних, хостинг вебсайтів або керування базами даних
+    [category] => Інфраструктура та мережі
+    [subcategory] => 
+)
+
+[23-Oct-2024 19:50:51 UTC] Термін: вебсервер
+[23-Oct-2024 19:50:51 UTC] Результат запиту: stdClass Object
+(
+    [term] => Вебсервер
+    [definition] => Програмне забезпечення, яке обробляє запити від клієнтів (браузерів) і повертає відповідні вебсторінки через HTTP протокол
+    [category] => Інфраструктура та мережі
+    [subcategory] => 
+)
+
+[23-Oct-2024 19:51:11 UTC] Термін: Що таке фронтенд
+[23-Oct-2024 19:51:11 UTC] Результат запиту: stdClass Object
+(
+    [definition] => Частина програмного забезпечення або вебдодатку, з якою взаємодіє користувач, включає в себе інтерфейс користувача (UI) та елементи дизайну
+    [category] => Програмування та розробка
+    [subcategory] => Веброзробка
+)
+
+[23-Oct-2024 19:53:37 UTC] Text generation scripts loading
+[23-Oct-2024 19:53:37 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 19:53:47 UTC] Термін: що таке фронтенд
+[23-Oct-2024 19:53:47 UTC] Результат запиту: stdClass Object
+(
+    [definition] => Частина програмного забезпечення або вебдодатку, з якою взаємодіє користувач, включає в себе інтерфейс користувача (UI) та елементи дизайну
+    [category] => Програмування та розробка
+    [subcategory] => Веброзробка
+)
+
+[23-Oct-2024 19:54:19 UTC] Термін: сервер
+[23-Oct-2024 19:54:19 UTC] Результат запиту: stdClass Object
+(
+    [term] => Сервер
+    [definition] => Комп'ютерна система або пристрій, що надає певні послуги іншим комп'ютерам або клієнтам у мережі. Сервери можуть обробляти запити клієнтів і виконувати функції, як-от зберігання даних, хостинг вебсайтів або керування базами даних
+    [category] => Інфраструктура та мережі
+    [subcategory] => 
+)
+
+[23-Oct-2024 19:56:25 UTC] Text generation scripts loading
+[23-Oct-2024 19:56:25 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 19:56:28 UTC] Термін: сервер
+[23-Oct-2024 19:56:28 UTC] Результат запиту: stdClass Object
+(
+    [term] => Сервер
+    [definition] => Комп'ютерна система або пристрій, що надає певні послуги іншим комп'ютерам або клієнтам у мережі. Сервери можуть обробляти запити клієнтів і виконувати функції, як-от зберігання даних, хостинг вебсайтів або керування базами даних
+    [category] => Інфраструктура та мережі
+    [subcategory] => 
+)
+
+[23-Oct-2024 19:56:28 UTC] PHP Warning:  Undefined variable $closest_term in C:\OSPanel\domains\text-generation\wp-content\plugins\text-generation\text-generation.php on line 77
+[23-Oct-2024 19:56:33 UTC] Термін: Сервер
+[23-Oct-2024 19:56:33 UTC] Результат запиту: stdClass Object
+(
+    [term] => Сервер
+    [definition] => Комп'ютерна система або пристрій, що надає певні послуги іншим комп'ютерам або клієнтам у мережі. Сервери можуть обробляти запити клієнтів і виконувати функції, як-от зберігання даних, хостинг вебсайтів або керування базами даних
+    [category] => Інфраструктура та мережі
+    [subcategory] => 
+)
+
+[23-Oct-2024 19:56:33 UTC] PHP Warning:  Undefined variable $closest_term in C:\OSPanel\domains\text-generation\wp-content\plugins\text-generation\text-generation.php on line 77
+[23-Oct-2024 19:56:40 UTC] Термін: сервер
+[23-Oct-2024 19:56:40 UTC] Результат запиту: stdClass Object
+(
+    [term] => Сервер
+    [definition] => Комп'ютерна система або пристрій, що надає певні послуги іншим комп'ютерам або клієнтам у мережі. Сервери можуть обробляти запити клієнтів і виконувати функції, як-от зберігання даних, хостинг вебсайтів або керування базами даних
+    [category] => Інфраструктура та мережі
+    [subcategory] => 
+)
+
+[23-Oct-2024 19:56:40 UTC] PHP Warning:  Undefined variable $closest_term in C:\OSPanel\domains\text-generation\wp-content\plugins\text-generation\text-generation.php on line 77
+[23-Oct-2024 19:58:17 UTC] Text generation scripts loading
+[23-Oct-2024 19:58:17 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 19:58:19 UTC] Text generation scripts loading
+[23-Oct-2024 19:58:19 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 19:58:21 UTC] Text generation scripts loading
+[23-Oct-2024 19:58:21 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 19:58:24 UTC] Термін: сервер
+[23-Oct-2024 19:58:24 UTC] Результат запиту: stdClass Object
+(
+    [term] => Сервер
+    [definition] => Комп'ютерна система або пристрій, що надає певні послуги іншим комп'ютерам або клієнтам у мережі. Сервери можуть обробляти запити клієнтів і виконувати функції, як-от зберігання даних, хостинг вебсайтів або керування базами даних
+    [category] => Інфраструктура та мережі
+    [subcategory] => 
+)
+
+[23-Oct-2024 19:58:24 UTC] PHP Warning:  Undefined variable $closest_term in C:\OSPanel\domains\text-generation\wp-content\plugins\text-generation\text-generation.php on line 78
+[23-Oct-2024 20:01:30 UTC] Text generation scripts loading
+[23-Oct-2024 20:01:30 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 20:01:35 UTC] Термін: мак
+[23-Oct-2024 20:01:35 UTC] Результат запиту: stdClass Object
+(
+    [term] => DNS
+    [definition] => Протокол, що перетворює доменні імена (наприклад, www.mysite.com) у IP-адреси, необхідні для з'єднання з вебсайтами
+    [category] => Інфраструктура та мережі
+    [subcategory] => Комп'ютерна мережа
+)
+
+[23-Oct-2024 20:01:42 UTC] Термін: dns
+[23-Oct-2024 20:01:42 UTC] Результат запиту: stdClass Object
+(
+    [term] => DNS
+    [definition] => Протокол, що перетворює доменні імена (наприклад, www.mysite.com) у IP-адреси, необхідні для з'єднання з вебсайтами
+    [category] => Інфраструктура та мережі
+    [subcategory] => Комп'ютерна мережа
+)
+
+[23-Oct-2024 20:01:42 UTC] PHP Warning:  Undefined variable $closest_term in C:\OSPanel\domains\text-generation\wp-content\plugins\text-generation\text-generation.php on line 78
+[23-Oct-2024 20:02:05 UTC] Термін: Сервер
+[23-Oct-2024 20:02:05 UTC] Результат запиту: stdClass Object
+(
+    [term] => Сервер
+    [definition] => Комп'ютерна система або пристрій, що надає певні послуги іншим комп'ютерам або клієнтам у мережі. Сервери можуть обробляти запити клієнтів і виконувати функції, як-от зберігання даних, хостинг вебсайтів або керування базами даних
+    [category] => Інфраструктура та мережі
+    [subcategory] => 
+)
+
+[23-Oct-2024 20:02:05 UTC] PHP Warning:  Undefined variable $closest_term in C:\OSPanel\domains\text-generation\wp-content\plugins\text-generation\text-generation.php on line 78
+[23-Oct-2024 20:02:14 UTC] Термін: Інфраструктура та мережі
+[23-Oct-2024 20:02:14 UTC] Результат запиту: stdClass Object
+(
+    [term] => Комп'ютерна мережа
+    [definition] => Сукупність комп'ютерів і пристроїв, пов'язаних між собою за допомогою різних методів комунікації для обміну даними та ресурсами
+    [category] => Інфраструктура та мережі
+    [subcategory] => 
+)
+
+[23-Oct-2024 20:02:40 UTC] Термін: Що таке хостнг?
+[23-Oct-2024 20:02:40 UTC] Результат запиту: stdClass Object
+(
+    [term] => Хостинг
+    [definition] => Послуга надання місця на сервері для зберігання файлів вебсайту, щоб вони були доступні через інтернет
+    [category] => Інфраструктура та мережі
+    [subcategory] => 
+)
+
+[23-Oct-2024 20:04:46 UTC] Text generation scripts loading
+[23-Oct-2024 20:04:46 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 20:04:51 UTC] Text generation scripts loading
+[23-Oct-2024 20:04:51 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 20:06:32 UTC] Text generation scripts loading
+[23-Oct-2024 20:06:32 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 20:06:37 UTC] Термін: днс
+[23-Oct-2024 20:06:37 UTC] Результат запиту: stdClass Object
+(
+    [term] => DNS
+    [definition] => Протокол, що перетворює доменні імена (наприклад, www.mysite.com) у IP-адреси, необхідні для з'єднання з вебсайтами
+    [category] => Інфраструктура та мережі
+    [subcategory] => Комп'ютерна мережа
+)
+
+[23-Oct-2024 20:07:18 UTC] Text generation scripts loading
+[23-Oct-2024 20:07:18 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 20:07:22 UTC] Термін: днс
+[23-Oct-2024 20:07:22 UTC] Результат запиту: stdClass Object
+(
+    [term] => DNS
+    [definition] => Протокол, що перетворює доменні імена (наприклад, www.mysite.com) у IP-адреси, необхідні для з'єднання з вебсайтами
+    [category] => Інфраструктура та мережі
+    [subcategory] => Комп'ютерна мережа
+)
+
+[23-Oct-2024 20:08:04 UTC] Text generation scripts loading
+[23-Oct-2024 20:08:04 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 20:08:07 UTC] Термін: днс
+[23-Oct-2024 20:08:07 UTC] Результат запиту: stdClass Object
+(
+    [term] => DNS
+    [definition] => Протокол, що перетворює доменні імена (наприклад, www.mysite.com) у IP-адреси, необхідні для з'єднання з вебсайтами
+    [category] => Інфраструктура та мережі
+    [subcategory] => Комп'ютерна мережа
+)
+
+[23-Oct-2024 20:09:08 UTC] Text generation scripts loading
+[23-Oct-2024 20:09:08 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 20:09:09 UTC] Термін: днс
+[23-Oct-2024 20:09:09 UTC] Результат запиту: stdClass Object
+(
+    [term] => DNS
+    [definition] => Протокол, що перетворює доменні імена (наприклад, www.mysite.com) у IP-адреси, необхідні для з'єднання з вебсайтами
+    [category] => Інфраструктура та мережі
+    [subcategory] => Комп'ютерна мережа
+)
+
+[23-Oct-2024 20:16:35 UTC] Text generation scripts loading
+[23-Oct-2024 20:16:35 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 20:18:54 UTC] Text generation scripts loading
+[23-Oct-2024 20:18:54 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 20:20:45 UTC] Text generation scripts loading
+[23-Oct-2024 20:20:45 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 20:21:45 UTC] Text generation scripts loading
+[23-Oct-2024 20:21:45 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 20:21:48 UTC] PHP Warning:  Undefined variable $closest_term in C:\OSPanel\domains\text-generation\wp-content\plugins\text-generation\text-generation.php on line 44
+[23-Oct-2024 20:22:06 UTC] PHP Warning:  Undefined variable $closest_term in C:\OSPanel\domains\text-generation\wp-content\plugins\text-generation\text-generation.php on line 44
+[23-Oct-2024 20:22:24 UTC] PHP Warning:  Undefined variable $closest_term in C:\OSPanel\domains\text-generation\wp-content\plugins\text-generation\text-generation.php on line 44
+[23-Oct-2024 20:22:32 UTC] PHP Warning:  Undefined variable $closest_term in C:\OSPanel\domains\text-generation\wp-content\plugins\text-generation\text-generation.php on line 44
+[23-Oct-2024 20:32:21 UTC] PHP Fatal error:  Cannot redeclare wp_login_url() (previously declared in C:\OSPanel\domains\text-generation\wp-includes\general-template.php:446) in C:\OSPanel\domains\text-generation\wp-content\themes\astra\functions.php on line 15
+[23-Oct-2024 20:33:08 UTC] PHP Fatal error:  Cannot redeclare wp_login_url() (previously declared in C:\OSPanel\domains\text-generation\wp-includes\general-template.php:446) in C:\OSPanel\domains\text-generation\wp-content\themes\astra\functions.php on line 24
+[23-Oct-2024 20:33:35 UTC] Text generation scripts loading
+[23-Oct-2024 20:33:35 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 20:38:07 UTC] Text generation scripts loading
+[23-Oct-2024 20:38:07 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 20:40:55 UTC] Text generation scripts loading
+[23-Oct-2024 20:40:55 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 20:41:04 UTC] Text generation scripts loading
+[23-Oct-2024 20:41:04 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 20:41:10 UTC] Text generation scripts loading
+[23-Oct-2024 20:41:10 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 20:41:35 UTC] Text generation scripts loading
+[23-Oct-2024 20:41:35 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 20:43:40 UTC] Text generation scripts loading
+[23-Oct-2024 20:43:40 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 20:43:50 UTC] Text generation scripts loading
+[23-Oct-2024 20:43:50 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 986261584a
+    [is_logged_in] => 
+)
+
+[23-Oct-2024 20:44:02 UTC] Text generation scripts loading
+[23-Oct-2024 20:44:02 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 986261584a
+    [is_logged_in] => 
+)
+
+[23-Oct-2024 20:44:09 UTC] Text generation scripts loading
+[23-Oct-2024 20:44:09 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 986261584a
+    [is_logged_in] => 
+)
+
+[23-Oct-2024 20:47:16 UTC] Text generation scripts loading
+[23-Oct-2024 20:47:16 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 986261584a
+    [is_logged_in] => 
+)
+
+[23-Oct-2024 20:47:24 UTC] Text generation scripts loading
+[23-Oct-2024 20:47:24 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 986261584a
+    [is_logged_in] => 
+)
+
+[23-Oct-2024 20:47:29 UTC] Text generation scripts loading
+[23-Oct-2024 20:47:29 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 986261584a
+    [is_logged_in] => 
+)
+
+[23-Oct-2024 20:47:40 UTC] Text generation scripts loading
+[23-Oct-2024 20:47:40 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 10ee23d58c
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 20:48:29 UTC] Text generation scripts loading
+[23-Oct-2024 20:48:29 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 986261584a
+    [is_logged_in] => 
+)
+
+[23-Oct-2024 20:48:31 UTC] Text generation scripts loading
+[23-Oct-2024 20:48:31 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 986261584a
+    [is_logged_in] => 
+)
+
+[23-Oct-2024 20:49:12 UTC] Text generation scripts loading
+[23-Oct-2024 20:49:12 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 986261584a
+    [is_logged_in] => 
+)
+
+[23-Oct-2024 20:49:20 UTC] Text generation scripts loading
+[23-Oct-2024 20:49:20 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 20:49:24 UTC] PHP Warning:  Undefined variable $closest_term in C:\OSPanel\domains\text-generation\wp-content\plugins\text-generation\text-generation.php on line 44
+[23-Oct-2024 20:51:16 UTC] Text generation scripts loading
+[23-Oct-2024 20:51:16 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 20:53:12 UTC] Text generation scripts loading
+[23-Oct-2024 20:53:12 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 20:53:24 UTC] Text generation scripts loading
+[23-Oct-2024 20:53:24 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 20:53:29 UTC] PHP Warning:  Undefined variable $closest_term in C:\OSPanel\domains\text-generation\wp-content\plugins\text-generation\text-generation.php on line 44
+[23-Oct-2024 20:54:00 UTC] PHP Warning:  Undefined variable $closest_term in C:\OSPanel\domains\text-generation\wp-content\plugins\text-generation\text-generation.php on line 44
+[23-Oct-2024 20:54:46 UTC] Text generation scripts loading
+[23-Oct-2024 20:54:46 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 20:54:48 UTC] Text generation scripts loading
+[23-Oct-2024 20:54:48 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 20:54:50 UTC] Text generation scripts loading
+[23-Oct-2024 20:54:50 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 20:54:51 UTC] Text generation scripts loading
+[23-Oct-2024 20:54:51 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 20:54:53 UTC] PHP Warning:  Undefined variable $closest_term in C:\OSPanel\domains\text-generation\wp-content\plugins\text-generation\text-generation.php on line 44
+[23-Oct-2024 20:54:57 UTC] PHP Warning:  Undefined variable $closest_term in C:\OSPanel\domains\text-generation\wp-content\plugins\text-generation\text-generation.php on line 44
+[23-Oct-2024 20:55:01 UTC] PHP Warning:  Undefined variable $closest_term in C:\OSPanel\domains\text-generation\wp-content\plugins\text-generation\text-generation.php on line 44
+[23-Oct-2024 20:55:39 UTC] Text generation scripts loading
+[23-Oct-2024 20:55:39 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 20:55:45 UTC] PHP Warning:  Undefined variable $closest_term in C:\OSPanel\domains\text-generation\wp-content\plugins\text-generation\text-generation.php on line 44
+[23-Oct-2024 20:56:08 UTC] Text generation scripts loading
+[23-Oct-2024 20:56:08 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 20:56:28 UTC] Text generation scripts loading
+[23-Oct-2024 20:56:28 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 20:56:46 UTC] Text generation scripts loading
+[23-Oct-2024 20:56:46 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 20:56:54 UTC] Text generation scripts loading
+[23-Oct-2024 20:56:54 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 20:57:04 UTC] Text generation scripts loading
+[23-Oct-2024 20:57:04 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 20:57:08 UTC] Text generation scripts loading
+[23-Oct-2024 20:57:08 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 20:57:11 UTC] Text generation scripts loading
+[23-Oct-2024 20:57:11 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 20:57:16 UTC] Text generation scripts loading
+[23-Oct-2024 20:57:16 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 20:57:29 UTC] Text generation scripts loading
+[23-Oct-2024 20:57:29 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 20:57:54 UTC] Text generation scripts loading
+[23-Oct-2024 20:57:54 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 20:58:06 UTC] Text generation scripts loading
+[23-Oct-2024 20:58:06 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 986261584a
+    [is_logged_in] => 
+)
+
+[23-Oct-2024 20:58:29 UTC] Text generation scripts loading
+[23-Oct-2024 20:58:29 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 986261584a
+    [is_logged_in] => 
+)
+
+[23-Oct-2024 20:58:34 UTC] Text generation scripts loading
+[23-Oct-2024 20:58:34 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 986261584a
+    [is_logged_in] => 
+)
+
+[23-Oct-2024 20:58:41 UTC] Text generation scripts loading
+[23-Oct-2024 20:58:41 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 986261584a
+    [is_logged_in] => 
+)
+
+[23-Oct-2024 20:59:34 UTC] Text generation scripts loading
+[23-Oct-2024 20:59:34 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 20:59:42 UTC] Text generation scripts loading
+[23-Oct-2024 20:59:42 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 20:59:51 UTC] Text generation scripts loading
+[23-Oct-2024 20:59:51 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 21:00:07 UTC] Text generation scripts loading
+[23-Oct-2024 21:00:07 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 21:00:24 UTC] Text generation scripts loading
+[23-Oct-2024 21:00:24 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 21:00:28 UTC] Text generation scripts loading
+[23-Oct-2024 21:00:28 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 986261584a
+    [is_logged_in] => 
+)
+
+[23-Oct-2024 21:00:34 UTC] Text generation scripts loading
+[23-Oct-2024 21:00:34 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 986261584a
+    [is_logged_in] => 
+)
+
+[23-Oct-2024 21:00:57 UTC] Text generation scripts loading
+[23-Oct-2024 21:00:57 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 21:01:07 UTC] Text generation scripts loading
+[23-Oct-2024 21:01:07 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 21:01:23 UTC] Text generation scripts loading
+[23-Oct-2024 21:01:23 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 986261584a
+    [is_logged_in] => 
+)
+
+[23-Oct-2024 21:01:26 UTC] Text generation scripts loading
+[23-Oct-2024 21:01:26 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 986261584a
+    [is_logged_in] => 
+)
+
+[23-Oct-2024 21:02:25 UTC] Text generation scripts loading
+[23-Oct-2024 21:02:25 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 986261584a
+    [is_logged_in] => 
+)
+
+[23-Oct-2024 21:02:41 UTC] Text generation scripts loading
+[23-Oct-2024 21:02:41 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 986261584a
+    [is_logged_in] => 
+)
+
+[23-Oct-2024 21:03:02 UTC] Text generation scripts loading
+[23-Oct-2024 21:03:02 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 21:03:05 UTC] Text generation scripts loading
+[23-Oct-2024 21:03:05 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 21:03:06 UTC] Text generation scripts loading
+[23-Oct-2024 21:03:06 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 21:03:15 UTC] Text generation scripts loading
+[23-Oct-2024 21:03:15 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 21:03:17 UTC] Text generation scripts loading
+[23-Oct-2024 21:03:17 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 21:03:19 UTC] Text generation scripts loading
+[23-Oct-2024 21:03:19 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 21:03:23 UTC] Text generation scripts loading
+[23-Oct-2024 21:03:23 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 986261584a
+    [is_logged_in] => 
+)
+
+[23-Oct-2024 21:03:26 UTC] Text generation scripts loading
+[23-Oct-2024 21:03:26 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 986261584a
+    [is_logged_in] => 
+)
+
+[23-Oct-2024 21:03:33 UTC] Text generation scripts loading
+[23-Oct-2024 21:03:33 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 986261584a
+    [is_logged_in] => 
+)
+
+[23-Oct-2024 21:03:38 UTC] Text generation scripts loading
+[23-Oct-2024 21:03:38 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 986261584a
+    [is_logged_in] => 
+)
+
+[23-Oct-2024 21:03:39 UTC] Text generation scripts loading
+[23-Oct-2024 21:03:39 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 986261584a
+    [is_logged_in] => 
+)
+
+[23-Oct-2024 21:04:05 UTC] Text generation scripts loading
+[23-Oct-2024 21:04:05 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 986261584a
+    [is_logged_in] => 
+)
+
+[23-Oct-2024 21:04:07 UTC] Text generation scripts loading
+[23-Oct-2024 21:04:07 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 986261584a
+    [is_logged_in] => 
+)
+
+[23-Oct-2024 21:04:28 UTC] Text generation scripts loading
+[23-Oct-2024 21:04:28 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 21:04:38 UTC] Text generation scripts loading
+[23-Oct-2024 21:04:38 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 986261584a
+    [is_logged_in] => 
+)
+
+[23-Oct-2024 21:05:07 UTC] Text generation scripts loading
+[23-Oct-2024 21:05:07 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 21:05:11 UTC] Text generation scripts loading
+[23-Oct-2024 21:05:11 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 21:05:18 UTC] Text generation scripts loading
+[23-Oct-2024 21:05:18 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 21:05:22 UTC] Text generation scripts loading
+[23-Oct-2024 21:05:22 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 21:05:28 UTC] Text generation scripts loading
+[23-Oct-2024 21:05:28 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 21:05:42 UTC] Text generation scripts loading
+[23-Oct-2024 21:05:42 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 21:05:45 UTC] Text generation scripts loading
+[23-Oct-2024 21:05:45 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 21:05:50 UTC] Text generation scripts loading
+[23-Oct-2024 21:05:50 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 21:05:54 UTC] Text generation scripts loading
+[23-Oct-2024 21:05:54 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 21:06:05 UTC] Text generation scripts loading
+[23-Oct-2024 21:06:05 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 21:06:12 UTC] Text generation scripts loading
+[23-Oct-2024 21:06:12 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 21:06:30 UTC] Text generation scripts loading
+[23-Oct-2024 21:06:30 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 21:06:31 UTC] Text generation scripts loading
+[23-Oct-2024 21:06:31 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 21:06:36 UTC] Text generation scripts loading
+[23-Oct-2024 21:06:36 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 21:06:39 UTC] Text generation scripts loading
+[23-Oct-2024 21:06:39 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 21:07:41 UTC] Text generation scripts loading
+[23-Oct-2024 21:07:41 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 21:07:54 UTC] Text generation scripts loading
+[23-Oct-2024 21:07:54 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 986261584a
+    [is_logged_in] => 
+)
+
+[23-Oct-2024 21:07:55 UTC] Text generation scripts loading
+[23-Oct-2024 21:07:55 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 986261584a
+    [is_logged_in] => 
+)
+
+[23-Oct-2024 21:08:03 UTC] Text generation scripts loading
+[23-Oct-2024 21:08:03 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 986261584a
+    [is_logged_in] => 
+)
+
+[23-Oct-2024 21:08:25 UTC] Text generation scripts loading
+[23-Oct-2024 21:08:25 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 986261584a
+    [is_logged_in] => 
+)
+
+[23-Oct-2024 21:08:27 UTC] Text generation scripts loading
+[23-Oct-2024 21:08:27 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 986261584a
+    [is_logged_in] => 
+)
+
+[23-Oct-2024 21:08:30 UTC] Text generation scripts loading
+[23-Oct-2024 21:08:30 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 986261584a
+    [is_logged_in] => 
+)
+
+[23-Oct-2024 21:08:48 UTC] Text generation scripts loading
+[23-Oct-2024 21:08:48 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 986261584a
+    [is_logged_in] => 
+)
+
+[23-Oct-2024 21:08:49 UTC] Text generation scripts loading
+[23-Oct-2024 21:08:49 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 986261584a
+    [is_logged_in] => 
+)
+
+[23-Oct-2024 21:08:50 UTC] Text generation scripts loading
+[23-Oct-2024 21:08:50 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 986261584a
+    [is_logged_in] => 
+)
+
+[23-Oct-2024 21:08:51 UTC] Text generation scripts loading
+[23-Oct-2024 21:08:51 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 986261584a
+    [is_logged_in] => 
+)
+
+[23-Oct-2024 21:09:39 UTC] Text generation scripts loading
+[23-Oct-2024 21:09:39 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 21:09:45 UTC] Text generation scripts loading
+[23-Oct-2024 21:09:45 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 986261584a
+    [is_logged_in] => 
+)
+
+[23-Oct-2024 21:09:48 UTC] Text generation scripts loading
+[23-Oct-2024 21:09:48 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 986261584a
+    [is_logged_in] => 
+)
+
+[23-Oct-2024 21:10:48 UTC] Text generation scripts loading
+[23-Oct-2024 21:10:48 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 986261584a
+    [is_logged_in] => 
+)
+
+[23-Oct-2024 21:10:49 UTC] Text generation scripts loading
+[23-Oct-2024 21:10:49 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 986261584a
+    [is_logged_in] => 
+)
+
+[23-Oct-2024 21:10:53 UTC] Text generation scripts loading
+[23-Oct-2024 21:10:53 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 986261584a
+    [is_logged_in] => 
+)
+
+[23-Oct-2024 21:11:12 UTC] Text generation scripts loading
+[23-Oct-2024 21:11:12 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 986261584a
+    [is_logged_in] => 
+)
+
+[23-Oct-2024 21:11:14 UTC] Text generation scripts loading
+[23-Oct-2024 21:11:14 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 986261584a
+    [is_logged_in] => 
+)
+
+[23-Oct-2024 21:11:15 UTC] Text generation scripts loading
+[23-Oct-2024 21:11:15 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 986261584a
+    [is_logged_in] => 
+)
+
+[23-Oct-2024 21:11:17 UTC] Text generation scripts loading
+[23-Oct-2024 21:11:17 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 986261584a
+    [is_logged_in] => 
+)
+
+[23-Oct-2024 21:11:20 UTC] Text generation scripts loading
+[23-Oct-2024 21:11:20 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 986261584a
+    [is_logged_in] => 
+)
+
+[23-Oct-2024 21:11:36 UTC] Text generation scripts loading
+[23-Oct-2024 21:11:36 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 986261584a
+    [is_logged_in] => 
+)
+
+[23-Oct-2024 21:11:49 UTC] Text generation scripts loading
+[23-Oct-2024 21:11:49 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 986261584a
+    [is_logged_in] => 
+)
+
+[23-Oct-2024 21:11:58 UTC] Text generation scripts loading
+[23-Oct-2024 21:11:58 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 986261584a
+    [is_logged_in] => 
+)
+
+[23-Oct-2024 21:12:02 UTC] Text generation scripts loading
+[23-Oct-2024 21:12:02 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 986261584a
+    [is_logged_in] => 
+)
+
+[23-Oct-2024 21:12:50 UTC] Text generation scripts loading
+[23-Oct-2024 21:12:50 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 986261584a
+    [is_logged_in] => 
+)
+
+[23-Oct-2024 21:13:32 UTC] Text generation scripts loading
+[23-Oct-2024 21:13:32 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 986261584a
+    [is_logged_in] => 
+)
+
+[23-Oct-2024 21:13:37 UTC] Text generation scripts loading
+[23-Oct-2024 21:13:37 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 986261584a
+    [is_logged_in] => 
+)
+
+[23-Oct-2024 21:13:40 UTC] Text generation scripts loading
+[23-Oct-2024 21:13:40 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 986261584a
+    [is_logged_in] => 
+)
+
+[23-Oct-2024 21:13:42 UTC] Text generation scripts loading
+[23-Oct-2024 21:13:42 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 986261584a
+    [is_logged_in] => 
+)
+
+[23-Oct-2024 21:13:54 UTC] Text generation scripts loading
+[23-Oct-2024 21:13:54 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 21:14:35 UTC] PHP Notice:  Функцію wp_enqueue_script() було викликано <strong>неправильно</strong>. "wp-editor" script should not be enqueued together with the new widgets editor (wp-edit-widgets or wp-customize-widgets). Будь ласка, перегляньте <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Виправлення помилок у WordPress</a> для більш детальної інформації. (Це повідомлення додане у версії 5.8.0.) in C:\OSPanel\domains\text-generation\wp-includes\functions.php on line 6085
+[23-Oct-2024 21:35:37 UTC] Text generation scripts loading
+[23-Oct-2024 21:35:37 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 21:35:41 UTC] Text generation scripts loading
+[23-Oct-2024 21:35:41 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 21:35:51 UTC] Text generation scripts loading
+[23-Oct-2024 21:35:51 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+)
+
+[23-Oct-2024 21:36:29 UTC] Text generation scripts loading
+[23-Oct-2024 21:36:29 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 21:36:31 UTC] PHP Warning:  Undefined variable $closest_term in C:\OSPanel\domains\text-generation\wp-content\plugins\text-generation\text-generation.php on line 44
+[23-Oct-2024 21:36:35 UTC] PHP Warning:  Undefined variable $closest_term in C:\OSPanel\domains\text-generation\wp-content\plugins\text-generation\text-generation.php on line 44
+[23-Oct-2024 21:36:50 UTC] PHP Warning:  Undefined variable $closest_term in C:\OSPanel\domains\text-generation\wp-content\plugins\text-generation\text-generation.php on line 44
+[23-Oct-2024 21:37:27 UTC] Text generation scripts loading
+[23-Oct-2024 21:37:27 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 21:38:25 UTC] Text generation scripts loading
+[23-Oct-2024 21:38:25 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 21:38:55 UTC] Text generation scripts loading
+[23-Oct-2024 21:38:55 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 21:40:16 UTC] Text generation scripts loading
+[23-Oct-2024 21:40:16 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 21:41:53 UTC] Text generation scripts loading
+[23-Oct-2024 21:41:53 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 21:41:55 UTC] Text generation scripts loading
+[23-Oct-2024 21:41:55 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 21:41:56 UTC] Text generation scripts loading
+[23-Oct-2024 21:41:56 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 21:41:58 UTC] Text generation scripts loading
+[23-Oct-2024 21:41:58 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 21:42:05 UTC] Text generation scripts loading
+[23-Oct-2024 21:42:05 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 21:42:07 UTC] Text generation scripts loading
+[23-Oct-2024 21:42:07 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 21:42:17 UTC] Text generation scripts loading
+[23-Oct-2024 21:42:17 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 21:46:14 UTC] Text generation scripts loading
+[23-Oct-2024 21:46:14 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 21:47:28 UTC] Text generation scripts loading
+[23-Oct-2024 21:47:28 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 21:47:41 UTC] PHP Warning:  Undefined variable $closest_term in C:\OSPanel\domains\text-generation\wp-content\plugins\text-generation\text-generation.php on line 39
+[23-Oct-2024 21:50:09 UTC] Text generation scripts loading
+[23-Oct-2024 21:50:09 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 21:52:29 UTC] Text generation scripts loading
+[23-Oct-2024 21:52:29 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 21:56:42 UTC] Text generation scripts loading
+[23-Oct-2024 21:56:42 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 21:57:25 UTC] Text generation scripts loading
+[23-Oct-2024 21:57:25 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 22:01:46 UTC] Text generation scripts loading
+[23-Oct-2024 22:01:46 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 22:02:38 UTC] Text generation scripts loading
+[23-Oct-2024 22:02:38 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 22:03:01 UTC] Text generation scripts loading
+[23-Oct-2024 22:03:01 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 22:03:33 UTC] Text generation scripts loading
+[23-Oct-2024 22:03:33 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 22:04:07 UTC] Text generation scripts loading
+[23-Oct-2024 22:04:07 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 22:04:08 UTC] Text generation scripts loading
+[23-Oct-2024 22:04:08 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 22:07:36 UTC] Text generation scripts loading
+[23-Oct-2024 22:07:36 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 22:10:07 UTC] Text generation scripts loading
+[23-Oct-2024 22:10:07 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 22:10:12 UTC] PHP Warning:  Undefined variable $closest_term in C:\OSPanel\domains\text-generation\wp-content\plugins\text-generation\text-generation.php on line 46
+[23-Oct-2024 22:13:08 UTC] Text generation scripts loading
+[23-Oct-2024 22:13:08 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 22:14:24 UTC] Text generation scripts loading
+[23-Oct-2024 22:14:24 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[23-Oct-2024 22:15:20 UTC] Text generation scripts loading
+[23-Oct-2024 22:15:20 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 4ab2d7c548
+    [is_logged_in] => 1
+)
+
+[25-Oct-2024 02:12:18 UTC] Automatic updates starting...
+[25-Oct-2024 02:12:18 UTC] Text generation scripts loading
+[25-Oct-2024 02:12:18 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 2f1b491323
+    [is_logged_in] => 1
+)
+
+[25-Oct-2024 02:12:18 UTC]   Automatic plugin updates starting...
+[25-Oct-2024 02:12:18 UTC]   Automatic plugin updates complete.
+[25-Oct-2024 02:12:19 UTC] Automatic updates complete.
+[25-Oct-2024 02:12:51 UTC] Text generation scripts loading
+[25-Oct-2024 02:12:51 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 2f1b491323
+    [is_logged_in] => 1
+)
+
+[25-Oct-2024 02:13:39 UTC] PHP Warning:  Undefined variable $closest_term in C:\OSPanel\domains\text-generation\wp-content\plugins\text-generation\text-generation.php on line 46
+[25-Oct-2024 02:17:14 UTC] PHP Warning:  Undefined variable $closest_term in C:\OSPanel\domains\text-generation\wp-content\plugins\text-generation\text-generation.php on line 46
+[25-Oct-2024 02:17:23 UTC] PHP Warning:  Undefined variable $closest_term in C:\OSPanel\domains\text-generation\wp-content\plugins\text-generation\text-generation.php on line 46
+[25-Oct-2024 02:39:18 UTC] Text generation scripts loading
+[25-Oct-2024 02:39:18 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 2f1b491323
+    [is_logged_in] => 1
+)
+
+[25-Oct-2024 03:34:25 UTC] Text generation scripts loading
+[25-Oct-2024 03:34:25 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 2f1b491323
+    [is_logged_in] => 1
+)
+
+[25-Oct-2024 03:37:05 UTC] Text generation scripts loading
+[25-Oct-2024 03:37:05 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 2f1b491323
+    [is_logged_in] => 1
+)
+
+[25-Oct-2024 03:37:24 UTC] PHP Warning:  Undefined variable $closest_term in C:\OSPanel\domains\text-generation\wp-content\plugins\text-generation\text-generation.php on line 46
+[25-Oct-2024 03:37:36 UTC] PHP Warning:  Undefined variable $closest_term in C:\OSPanel\domains\text-generation\wp-content\plugins\text-generation\text-generation.php on line 46
+[25-Oct-2024 03:39:32 UTC] Text generation scripts loading
+[25-Oct-2024 03:39:32 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 2f1b491323
+    [is_logged_in] => 1
+)
+
+[25-Oct-2024 03:48:12 UTC] Text generation scripts loading
+[25-Oct-2024 03:48:12 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 2f1b491323
+    [is_logged_in] => 1
+)
+
+[25-Oct-2024 03:48:14 UTC] Text generation scripts loading
+[25-Oct-2024 03:48:14 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 2f1b491323
+    [is_logged_in] => 1
+)
+
+[25-Oct-2024 03:55:43 UTC] Text generation scripts loading
+[25-Oct-2024 03:55:43 UTC] Ajax data: Array
+(
+    [ajax_url] => http://text-generation/wp-admin/admin-ajax.php
+    [nonce] => 2f1b491323
+    [is_logged_in] => 1
+)
+
+[25-Oct-2024 04:15:08 UTC] PHP Warning:  Undefined variable $closest_term in C:\OSPanel\domains\text-generation\wp-content\plugins\text-generation\text-generation.php on line 39
+[25-Oct-2024 04:45:17 UTC] Automatic updates starting...
+[25-Oct-2024 04:45:18 UTC]   Automatic plugin updates starting...
+[25-Oct-2024 04:45:18 UTC]   Automatic plugin updates complete.
+[25-Oct-2024 04:45:18 UTC] Automatic updates complete.
+[25-Oct-2024 04:57:38 UTC] PHP Warning:  Undefined variable $closest_term in C:\OSPanel\domains\text-generation\wp-content\plugins\text-generation\text-generation.php on line 18
+[25-Oct-2024 05:05:03 UTC] PHP Warning:  Undefined variable $closest_term in C:\OSPanel\domains\text-generation\wp-content\plugins\text-generation\text-generation.php on line 37
+[25-Oct-2024 05:05:11 UTC] PHP Warning:  Undefined variable $closest_term in C:\OSPanel\domains\text-generation\wp-content\plugins\text-generation\text-generation.php on line 37
+[25-Oct-2024 05:09:40 UTC] PHP Warning:  Undefined variable $closest_term in C:\OSPanel\domains\text-generation\wp-content\plugins\text-generation\text-generation.php on line 57
+[25-Oct-2024 05:09:50 UTC] PHP Warning:  Undefined variable $closest_term in C:\OSPanel\domains\text-generation\wp-content\plugins\text-generation\text-generation.php on line 57
+[25-Oct-2024 05:16:08 UTC] PHP Warning:  Undefined variable $closest_term in C:\OSPanel\domains\text-generation\wp-content\plugins\text-generation\text-generation.php on line 39
+[25-Oct-2024 05:20:02 UTC] PHP Warning:  Undefined variable $closest_term in C:\OSPanel\domains\text-generation\wp-content\plugins\text-generation\text-generation.php on line 39
+[25-Oct-2024 07:16:26 UTC] PHP Warning:  Undefined variable $closest_term in C:\OSPanel\domains\text-generation\wp-content\plugins\text-generation\text-generation.php on line 39
+[25-Oct-2024 08:03:46 UTC] PHP Warning:  Undefined variable $closest_term in C:\OSPanel\domains\text-generation\wp-content\plugins\text-generation\text-generation.php on line 39
+[26-Oct-2024 07:08:29 UTC] Automatic updates starting...
+[26-Oct-2024 07:08:30 UTC]   Automatic plugin updates starting...
+[26-Oct-2024 07:08:30 UTC]   Automatic plugin updates complete.
+[26-Oct-2024 07:08:30 UTC] Automatic updates complete.
+[26-Oct-2024 08:16:45 UTC] PHP Warning:  Undefined variable $closest_term in C:\OSPanel\domains\text-generation\wp-content\plugins\text-generation\text-generation.php on line 39
+[26-Oct-2024 08:28:56 UTC] PHP Warning:  Undefined variable $closest_term in C:\OSPanel\domains\text-generation\wp-content\plugins\text-generation\text-generation.php on line 39
+[26-Oct-2024 08:45:01 UTC] PHP Warning:  Undefined variable $closest_term in C:\OSPanel\domains\text-generation\wp-content\plugins\text-generation\text-generation.php on line 39
+[26-Oct-2024 09:16:01 UTC] WordPress database error Table 'text_generation.wp_glossary' doesn't exist for query SHOW FULL COLUMNS FROM `wp_glossary` made by do_action('wp_ajax_check_term_exists'), WP_Hook->do_action, WP_Hook->apply_filters, check_term_exists
+[26-Oct-2024 09:16:01 UTC] WordPress database error Table 'text_generation.wp_glossary' doesn't exist for query SHOW FULL COLUMNS FROM `wp_glossary` made by do_action('wp_ajax_check_term_exists'), WP_Hook->do_action, WP_Hook->apply_filters, check_term_exists
+[26-Oct-2024 09:16:07 UTC] WordPress database error Table 'text_generation.wp_glossary' doesn't exist for query SHOW FULL COLUMNS FROM `wp_glossary` made by do_action('wp_ajax_check_term_exists'), WP_Hook->do_action, WP_Hook->apply_filters, check_term_exists
+[26-Oct-2024 09:16:07 UTC] WordPress database error Table 'text_generation.wp_glossary' doesn't exist for query SHOW FULL COLUMNS FROM `wp_glossary` made by do_action('wp_ajax_check_term_exists'), WP_Hook->do_action, WP_Hook->apply_filters, check_term_exists
+[26-Oct-2024 09:18:20 UTC] WordPress database error Table 'text_generation.wp_glossary' doesn't exist for query SHOW FULL COLUMNS FROM `wp_glossary` made by do_action('wp_ajax_check_term_exists'), WP_Hook->do_action, WP_Hook->apply_filters, check_term_exists
+[26-Oct-2024 09:18:20 UTC] WordPress database error Table 'text_generation.wp_glossary' doesn't exist for query SHOW FULL COLUMNS FROM `wp_glossary` made by do_action('wp_ajax_check_term_exists'), WP_Hook->do_action, WP_Hook->apply_filters, check_term_exists
+[26-Oct-2024 09:18:21 UTC] WordPress database error Table 'text_generation.wp_glossary' doesn't exist for query SHOW FULL COLUMNS FROM `wp_glossary` made by do_action('wp_ajax_add_new_term'), WP_Hook->do_action, WP_Hook->apply_filters, add_new_term
+[26-Oct-2024 09:19:24 UTC] WordPress database error Table 'text_generation.wp_glossary' doesn't exist for query SHOW FULL COLUMNS FROM `wp_glossary` made by do_action('wp_ajax_check_term_exists'), WP_Hook->do_action, WP_Hook->apply_filters, check_term_exists
+[26-Oct-2024 09:19:24 UTC] WordPress database error Table 'text_generation.wp_glossary' doesn't exist for query SHOW FULL COLUMNS FROM `wp_glossary` made by do_action('wp_ajax_check_term_exists'), WP_Hook->do_action, WP_Hook->apply_filters, check_term_exists
+[26-Oct-2024 09:19:25 UTC] WordPress database error Table 'text_generation.wp_glossary' doesn't exist for query SHOW FULL COLUMNS FROM `wp_glossary` made by do_action('wp_ajax_add_new_term'), WP_Hook->do_action, WP_Hook->apply_filters, add_new_term
+[26-Oct-2024 09:27:31 UTC] PHP Warning:  Undefined variable $closest_term in C:\OSPanel\domains\text-generation\wp-content\plugins\text-generation\text-generation.php on line 39
+[26-Oct-2024 09:28:15 UTC] WordPress database error Table 'text_generation.wp_glossary' doesn't exist for query SHOW FULL COLUMNS FROM `wp_glossary` made by do_action('wp_ajax_check_term_exists'), WP_Hook->do_action, WP_Hook->apply_filters, check_term_exists
+[26-Oct-2024 09:28:15 UTC] WordPress database error Table 'text_generation.wp_glossary' doesn't exist for query SHOW FULL COLUMNS FROM `wp_glossary` made by do_action('wp_ajax_check_term_exists'), WP_Hook->do_action, WP_Hook->apply_filters, check_term_exists
+[26-Oct-2024 09:28:15 UTC] WordPress database error Table 'text_generation.wp_glossary' doesn't exist for query SHOW FULL COLUMNS FROM `wp_glossary` made by do_action('wp_ajax_add_new_term'), WP_Hook->do_action, WP_Hook->apply_filters, add_new_term
+[26-Oct-2024 09:32:57 UTC] PHP Warning:  Undefined variable $closest_term in C:\OSPanel\domains\text-generation\wp-content\plugins\text-generation\text-generation.php on line 39
+[26-Oct-2024 09:33:39 UTC] PHP Warning:  Undefined variable $closest_term in C:\OSPanel\domains\text-generation\wp-content\plugins\text-generation\text-generation.php on line 39
+[26-Oct-2024 11:18:03 UTC] PHP Warning:  Undefined variable $closest_term in C:\OSPanel\domains\text-generation\wp-content\plugins\text-generation\text-generation.php on line 39
+[26-Oct-2024 11:18:32 UTC] PHP Warning:  Undefined variable $closest_term in C:\OSPanel\domains\text-generation\wp-content\plugins\text-generation\text-generation.php on line 39
+[29-Oct-2024 09:05:16 UTC] Automatic updates starting...
+[29-Oct-2024 09:05:16 UTC]   Automatic plugin updates starting...
+[29-Oct-2024 09:05:16 UTC]   Automatic plugin updates complete.
+[29-Oct-2024 09:05:17 UTC] Automatic updates complete.
+[30-Oct-2024 07:01:29 UTC] Automatic updates starting...
+[30-Oct-2024 07:01:30 UTC]   Automatic plugin updates starting...
+[30-Oct-2024 07:01:30 UTC]   Automatic plugin updates complete.
+[30-Oct-2024 07:01:30 UTC] Automatic updates complete.
